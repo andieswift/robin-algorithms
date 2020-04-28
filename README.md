@@ -1,2 +1,2 @@
 # Robin Algorithms
-A repo containing fun algorithms and coding challenges all based off the website Robin.io
+A repo containing fun algorithms and coding challenges all based off the website myrobin.io
