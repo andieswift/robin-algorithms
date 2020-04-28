@@ -8,5 +8,5 @@ Please write a function for your friend that returns the number of slippers that
 */
 
 function howManySlippers (dogs, cats, chickens) {
-  return 4*dogs + 4*cats + 2*chickens;
+  return 4*(dogs + cats) + 2*chickens;
 }
